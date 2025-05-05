@@ -4,8 +4,8 @@ Este proyecto presenta el diseño e implementación de un controlador por lineal
 
 ## Contenido
 
-- `Codigo/Simulacion_Control_Coyuntura.mlx`: Código MATLAB que realiza la simulación del sistema bajo referencia constante y escalonada.
-- `Informe/Informe_Control_Coyuntura.pdf`: Artículo técnico que documenta el modelo, el diseño de control y los resultados obtenidos.
+- `Simulacion_Control_Coyuntura.mlx`: Código MATLAB que realiza la simulación del sistema bajo referencia constante y escalonada.
+- `Artículo_Control_Coyuntura.pdf`: Artículo técnico que documenta el modelo, el diseño de control y los resultados obtenidos.
 
 ## Requerimientos
 
