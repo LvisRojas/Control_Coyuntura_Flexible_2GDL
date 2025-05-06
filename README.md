@@ -1,4 +1,4 @@
-# Control de Coyuntura Flexible 2GDL
+# Diseño de un Controlador Basado en Linealización por Retroalimentación de Estados para un Sistema de Coyuntura Flexible de 2GDL
 
 Este proyecto presenta el diseño e implementación de un controlador por linealización exacta para un sistema de coyuntura flexible de dos grados de libertad.
 
